@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CrosswordPreliminaryGUI</string>
+    <string name="instructionTextView">Please enter the crossword clue, followed by what you know of the answer.
+    for the latter, you may either enter the number of letters, or, if you know some of them, enter what you
+    currently know, using question marks to mark unknown letters (e.g., ?N?????D).</string>
+    <string name="clueEditText">Enter the clue here</string>
+    <string name="answerEditText">Enter what you know of the answer here</string>
+    <string name="submitButton">Submit</string>
+</resources>
